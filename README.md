@@ -1,10 +1,9 @@
-Blog created
-============
-I've created a new blog based on git.
- 
-New pages are new commits, actually.
+First blog addition
+===================
+This is the very first added news.
 
-Formatting is a [Markdown](https://wikipedia.org/wiki/Markdown).
+I've decided to participate [hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
-Date of publication is a date of commit. Author - is the author of commit.
+That's why I've turned to github and have decided to create this blog. Just for fun!
 
+See my updates and stay in touch. 
